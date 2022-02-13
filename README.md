@@ -42,7 +42,7 @@ Usage (Coming Soon!)
 
 ~~or~~
 
-~~cowthink node.js is cool~~
+~~cowthink python is cool~~
 
 
 ~~It acts in the same way as the original cowsay, so consult `cowsay(1)` or run `cowsay -h`~~

@@ -18,7 +18,8 @@ cowsay-py
 
 Please note that this is a new package and there will be bugs. Please report them to the [issue page.](https://github.com/Ovlic/cowsay_py/issues)
 
-cowsay is a configurable talking cow, originally written in Perl by [Tony Monroe](https://github.com/tnalpgge/rank-amateur-cowsay)
+
+Cowsay is a configurable talking cow, originally written in Perl by [Tony Monroe](https://github.com/tnalpgge/rank-amateur-cowsay)
 
 This project uses code from [cowsay2](https://github.com/johnnysprinkles/cowsay), the node.js moderenized version of cowsay.
 

@@ -38,7 +38,7 @@ py -3 -m pip install -U cowsay-py
 Usage (Coming Soon!)
 -----
 
-~~cowsay JavaScript FTW!~~
+~~cowsay Python FTW!~~
 
 ~~or~~
 
